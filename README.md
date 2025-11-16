@@ -1,4 +1,4 @@
-# Chicago Crime Data Visualization and Stratified Sampling
+# Chicago Crime Data Visualization 
 
 ## Overview
 This project analyzes and visualizes the Chicago Crime dataset (2001-present), focusing on crime trends, types, and locations. It also demonstrates stratified sampling techniques to create representative data subsets for statistical analysis and validation.
